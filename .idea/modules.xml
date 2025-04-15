@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA projects bro.iml" filepath="$PROJECT_DIR$/.idea/JAVA projects bro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopping cart/Shopping cart.iml" filepath="$PROJECT_DIR$/Shopping cart/Shopping cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mad libs/mad libs.iml" filepath="$PROJECT_DIR$/mad libs/mad libs.iml" />
+    </modules>
+  </component>
+</project>
